@@ -1,4 +1,4 @@
-<h1 align="center">Hi It's Guru 👋</h1>
+<h1 align="center">It's Guru 👋</h1>
 <h3 align="center">A passionate frontend developer from Earth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Guru-25" alt="Guru-25" /> </p>
