@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/Guru-25?tab=repositories)
 
-- 📝 I regulary write articles on [NO where](NO where)
+- 📝 I regulary write articles on **NO where**
 
 - 💬 Ask me about **Crazy Shit**
 
-- 📫 How to reach me **YOU CANT (if you really want scrool down**
+- 📫 How to reach me **YOU CANT (if you really want scrool down)**
 
 - ⚡ Fun fact **I AM A HUMAN**
 
